@@ -7,7 +7,7 @@ Miner Dealer encourages storage providers to have the liquidity to operate withi
 Inclusiveness with miners who do not have sufficient liquidity to operate the protocol. Benefiting from holding the tokens in the system by generating yield.
 
 ## Solution
-Load protocol design, using storage actors within FVM to consult the reputation of miners, manipulating their rewards address allowing lenders to take profits.
+Lending protocol design, using storage actors within FVM to consult the reputation of miners, manipulating their rewards address allowing lenders to take profits.
 
 ## User Flow
 ![alt text](https://xrlab.studio/dev/MinerDealer/Flow.jpg)
